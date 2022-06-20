@@ -1,6 +1,6 @@
 # Vladislav Kozeletskiy #fisherenok
 
-Hi, I'm Vladislav — a junior junior javascript developer working on various project, especially in startups. I live in Belarus, city Minsk and am an Slonim native. 🙌 I'm a huge JavaScript geek, volleyball player, and lead a healthy lifestyle. 💕
+Hi, I'm Vladislav — a middle javascript developer working on various project, especially in startups. I live in Belarus, city Minsk and am an Slonim native. 🙌 I'm a huge JavaScript geek, volleyball player, and lead a healthy lifestyle. 💕
 
 💖 Safety and trust<br>
 🌟 Expression as authentic self<br>
